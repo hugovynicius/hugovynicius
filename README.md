@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 * I'm Hugo Bitencourt (@hugovynicius)
 
 * I'm a Software Engineer and Data Scientist with over ten years of professional experience and an academic background, including a Ph.D. in Computational Intelligence, a Master’s degree in Microelectronics and Microsystems, and a Bachelor’s degree in Information Systems.
@@ -10,4 +12,4 @@
 
 * In industry, I currently work as a Senior Software Engineer at Hotmart, where I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams. In parallel, I conduct applied research as an Artificial Intelligence Researcher at Futurelab, focusing on LLMs, and transformer-based architectures for complex time series forecasting problems.
 
-
+</div>
