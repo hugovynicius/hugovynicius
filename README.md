@@ -11,7 +11,7 @@
 ## Professional profiles:
 
 <div id="badges">
-  <a href="[www.linkedin.com/in/hugo-bitencourt ](https://www.linkedin.com/in/hugo-bitencourt/)">
+  <a href="https://www.linkedin.com/in/hugo-bitencourt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
