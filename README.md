@@ -6,8 +6,6 @@
 
 :scientist: My doctoral research focused on predictive methods for IoT, fuzzy time series models, dimensionality reduction techniques, and the development of new forecasting algorithms. More recently, my research has expanded to foundation models and Large Language Models (LLMs) applied to time series analysis, improving accuracy, robustness, and cross-domain generalization.
 
-* In industry, I currently work as a Senior Software Engineer at Hotmart, where I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams.
-
-* In parallel, I conduct applied research as an Artificial Intelligence Researcher at Futurelab, focusing on LLMs, and transformer-based architectures for complex time series forecasting problems.
+:computer: I currently work as a Senior Software Engineer at Hotmart, where I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams. In parallel, I conduct applied research as an Artificial Intelligence Researcher at Futurelab, focusing on LLMs, and transformer-based architectures for complex time series forecasting problems.
 
 
