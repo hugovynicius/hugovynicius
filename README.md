@@ -9,8 +9,14 @@
 :computer: I currently work as a Senior Software Engineer at Hotmart, where I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams. In parallel, I conduct applied research as an Artificial Intelligence Researcher at Futurelab, focusing on LLMs, and transformer-based architectures for complex time series forecasting problems.
 
 
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
-  <img src="URL_OF_LINKEDIN_ICON" alt="LinkedIn Icon" width="24" height="24" style="vertical-align: middle; margin-right: 8px;">
-  Connect on LinkedIn
-</a>
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
