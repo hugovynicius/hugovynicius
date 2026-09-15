@@ -10,19 +10,12 @@
 
 ## Professional profiles:
 
-<div class="social-icons">
-          <a class="social-icon" href="https://www.linkedin.com/in/hugo-bitencourt/" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          <a class="social-icon"  href="https://github.com/hugovynicius" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-        </div>
-</div>
-
-<!-- <div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/hugo-bitencourt/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://scholar.google.com/citations?user=sHw9EmIAAAAJ&hl=pt-BR&oi=sra">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
 </div>
--->
+
