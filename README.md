@@ -28,12 +28,9 @@
 ## Skills 
 
 <p>
-  <img src="https://img.shields.io/badge/Academic-Graduation-4B0082?style=for-the-badge&logo=education&logoColor=white" alt="Graduation" />
-  <img src="https://img.shields.io/badge/System%20Architecture-Cubes-008080?style=for-the-badge&logo=box&logoColor=white" alt="Cubes" />
-  <img src="https://img.shields.io/badge/Analytics-Chart--Line-2E8B57?style=for-the-badge&logo=line-chart&logoColor=white" alt="Chart" />
-  <img src="https://img.shields.io/badge/Dev-DEV.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev" />
-  <img src="https://img.shields.io/badge/Database-SQL%2FNoSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database" />
-  <img src="https://img.shields.io/badge/Hardware-Microchip-FF8C00?style=for-the-badge&logo=cpu&logoColor=white" alt="Microchip" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devto.svg" alt="Dev" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="Database" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchip.svg" alt="Microchip" width="40" height="40"/>
 </p>
