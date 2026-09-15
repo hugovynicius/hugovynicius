@@ -36,3 +36,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="48" height="48"/>
 </p>
 
+<p>
+  <!-- Graduation Cap / Academic -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graduated/graduated-original.svg" title="Graduation" alt="Graduation" width="48" height="48" />
+
+  <!-- Cubes / Architecture -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cubes.svg" title="Cubes" alt="Cubes" width="48" height="48" style="filter: invert(41%) sepia(93%) saturate(1352%) hue-rotate(180deg);" />
+
+  <!-- Chart Line / Analytics -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Analytics" alt="Analytics" width="48" height="48" />
+
+  <!-- Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" title="Dev" alt="Dev" width="48" height="48" />
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Database" alt="Database" width="48" height="48" />
+
+  <!-- Microchip / Hardware -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="Microchip" alt="Microchip" width="48" height="48" />
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="48" height="48" />
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="48" height="48" />
+</p>
+
