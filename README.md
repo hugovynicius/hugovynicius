@@ -28,9 +28,27 @@
 ## Skills 
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devto.svg" alt="Dev" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="Database" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microchip.svg" alt="Microchip" width="40" height="40"/>
+  <!-- Graduation / Education -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Graduation" width="40" height="40" />
+  
+  <!-- Cubes / Architecture -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/box.svg" alt="Cubes" width="40" height="40" />
+  
+  <!-- Chart Line / Analytics -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chartdotjs.svg" alt="Analytics" width="40" height="40" />
+  
+  <!-- DEV.to / Developer -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/devto.svg" alt="Dev" width="40" height="40" />
+  
+  <!-- Database -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg" alt="Database" width="40" height="40" />
+  
+  <!-- Microchip / Hardware -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cpu.svg" alt="Microchip" width="40" height="40" />
+  
+  <!-- AWS -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonwebservices.svg" alt="AWS" width="40" height="40" />
+  
+  <!-- Docker -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg" alt="Docker" width="40" height="40" />
 </p>
