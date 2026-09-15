@@ -8,7 +8,7 @@
 
 :computer: In industry, I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams. I also conduct applied research on Federated Learning, Language Models, Agentic AI, and Data Analysis and Processing.
 
-## Professional profiles:
+## Professional and Academic profiles:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hugo-bitencourt/">
@@ -16,6 +16,9 @@
   </a>
   <a href="https://scholar.google.com/citations?user=sHw9EmIAAAAJ&hl=pt-BR&oi=sra">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+  <a href="https://lattes.cnpq.br/5805520495357660">
+    <img src="https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes Badge"/>
   </a>
 </div>
 
