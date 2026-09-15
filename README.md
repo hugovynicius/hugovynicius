@@ -2,11 +2,11 @@
 
 ## About Me :rocket:
 
-:computer: I'm a Software Engineer with over ten years of professional experience and an academic background, including a Ph.D. in Computational Intelligence, a Master’s degree in Microelectronics and Microsystems, and a Bachelor’s degree in Information Systems.
+:computer: I'm a Software Engineer, Data Scientist and Researcher with over ten years of professional experience and an academic background, including a Ph.D. in Computational Intelligence, a Master’s degree in Microelectronics and Microsystems, and a Bachelor’s degree in Information Systems.
 
-:scientist: My doctoral research focused on predictive methods for IoT, fuzzy time series models, dimensionality reduction techniques, and the development of new forecasting algorithms. More recently, my research has expanded to foundation models and Large Language Models (LLMs) applied to time series analysis, improving accuracy, robustness, and cross-domain generalization.
+:scientist:  My doctoral research focused on predictive methods for IoT and renewable energy systems, fuzzy time series models, dimensionality reduction techniques, and the development of new forecasting algorithms. More recently, my research has expanded to federated learning, foundation models (LLMs, SLMs) and agentic AI applied to complex systems, improving accuracy, robustness, security, and cross-domain generalization. .
 
-:computer: I have worked as a Senior Software Engineer, where I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams. In parallel, I conduct applied research  on Fuzzy Systems, LLMs, and transformer-based architectures for complex time series forecasting problems.
+:computer: In industry, I design cloud architectures, lead complex system integrations, lead technical initiatives, ensure system reliability, and collaborate closely with business teams. I also conduct applied research on Federated Learning, Language Models, Agentic AI, and Data Analysis and Processing.
 
 ## Professional profiles:
 
